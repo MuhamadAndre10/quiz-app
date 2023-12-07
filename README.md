@@ -1,5 +1,7 @@
 # Quiz App Flutter
 
+![Quiz image](https://github.com/MuhamadAndre10/quiz-app/blob/main/assets/images/quiz%20app.png?raw=true)
+
 Quiz dengan soal dan jawaban random
 
 ## Apa yang di pelajari:

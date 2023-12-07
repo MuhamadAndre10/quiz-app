@@ -19,12 +19,22 @@ Beberapa hal yang perlu dipersiapkan
 
 ### Instalasi
 
-- clone repository
+- Clone repository
 ```
-
+git clone https://github.com/MuhamadAndre10/quiz-app.git
 ```
-    
+- Run command
+```
+flutter pub get
+```
+- Run command
+```
+flutter run
+``` 
 
+Awesome!! project running...
+
+## Resources
 
 This project is a starting point for a Flutter application.
 

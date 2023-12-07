@@ -1,8 +1,30 @@
 # Quiz App Flutter
 
-Quiz dengan 10 soal dan jawaban random
+Quiz dengan soal dan jawaban random
+
+## Apa yang di pelajari:
+- layouting widgets
+- flutter themes 
+- statefull and stateless widget
 
 ## Getting Started
+
+Panduan instalasi project quiz app
+
+### Prerequisites
+Beberapa hal yang perlu dipersiapkan
+- flutter : baca [disini](https://docs.flutter.dev/get-started/install) panduan instalasi flutter
+- vscode : software code editor. [installasi](https://code.visualstudio.com/)
+- panduan install flutter in vscode [baca](CjwKCAiA1MCrBhAoEiwAC2d64Xmu2PkjiMkH9gyfkdD0vznBQpkzfIvVwjNJI09oSnEPVk1j4b9u_xoCgWQQAvD_BwE)
+
+### Instalasi
+
+- clone repository
+```
+
+```
+    
+
 
 This project is a starting point for a Flutter application.
 

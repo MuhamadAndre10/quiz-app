@@ -4,6 +4,8 @@
 
 Quiz dengan soal dan jawaban random
 
+> Practice Udemy course
+
 ## Apa yang di pelajari:
 - layouting widgets
 - flutter themes 

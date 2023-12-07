@@ -1,6 +1,6 @@
-# second_quiz_app
+# Quiz App Flutter
 
-A new Flutter project.
+Quiz dengan 10 soal dan jawaban random
 
 ## Getting Started
 

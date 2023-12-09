@@ -4,7 +4,7 @@
 
 Quiz dengan soal dan jawaban random
 
-> Practice Udemy course
+>  This Project just for learning, not for production ready
 
 ## Apa yang di pelajari:
 - layouting widgets
